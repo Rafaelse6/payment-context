@@ -17,5 +17,3 @@ namespace PaymentContext.Domain.Entities
         public string LastTransactionNumber { get; private set; }
     }
 }
-
-//Aula 8:30
